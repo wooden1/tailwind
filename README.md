@@ -1,3 +1,3 @@
 # tailwind
 
-trying out tailwind css
+trying out tailwind css framework
